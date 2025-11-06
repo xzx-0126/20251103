@@ -1,0 +1,11 @@
+題目,選項A,選項B,選項C,選項D,正確答案
+什麼是 P5.js 中用來設定畫布大小的函數？,createCanvas,setCanvas,newCanvas,makeCanvas,A
+在 P5.js 中，哪個函數用於繪製圓形？,circle,drawCircle,round,sphere,A
+setup() 函數在 P5.js 中執行幾次？,無限次,一次,依需求執行,每秒60次,B
+draw() 函數在 P5.js 中的執行頻率為何？,每秒一次,只執行一次,每秒30次,每秒60次,D
+如何在 P5.js 中設定背景顏色？,backgroundColor,setBackground,clear,background,D
+哪個函數用於在 P5.js 中獲取滑鼠的X座標？,mouseX,getMouseX,cursorX,pointerX,A
+在 P5.js 中，要停止動畫循環應該使用什麼函數？,stopDraw,end,noLoop,pause,C
+哪個函數用於在 P5.js 中設定填充顏色？,color,setColor,fill,fillColor,C
+P5.js 中用於畫直線的函數是？,drawLine,stroke,line,linear,C
+如何在 P5.js 中檢測滑鼠是否被按下？,isMousePressed,mousePressed,mouseDown,checkMouse,B
